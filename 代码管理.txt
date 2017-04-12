@@ -1,0 +1,18 @@
+代码管理：
+1.申请Github账号：github.com
+2.sign up并注册
+3.邮箱验证
+4.登录并点击New Repository
+5.下载并安装Git
+6.配置用户信息
+$ git config --global user.name "Your Name"
+$ git config --global user.email "email@example.com"
+7.配置默认推送信息
+$ git config --global push.default matching
+8.生成公钥给项目管理员
+9.复制项目初始化命令
+10.命令行进入项目目录，运行9中复制命令
+11.安装Git插件
+12.提交代码：
+   ctrl+shift+p
+   输入git:add
